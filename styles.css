@@ -1,0 +1,33 @@
+QPushButton#orderButton {
+    background-color: #eca232;
+    color: black;
+    border: black;
+    text-align: center;
+    border: 1px solid black;
+}
+
+QPushButton#duplicatebutton{
+    background-color: #eca232;
+    color: black;
+    border: black;
+    text-align: center;
+    border: 1px solid black;
+}
+QListWidget#lista{
+    background-color: #7a7670;
+}
+
+QPushButton#abrir{
+    background-color: #eca232;
+    color: black;
+    border: black;
+    text-align: center;
+    border: 1px solid black;
+}
+QPushButton#guardar{
+    background-color: #eca232;
+    color: black;
+    border: black;
+    text-align: center;
+    border: 1px solid black;
+}
